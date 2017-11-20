@@ -26,7 +26,7 @@ supp 값은 0.001이상, conf 값은 0.1이상만 표시하도록 구성했습�
 
 
 
-![result](C:\Users\재원\Desktop\result.jpg)
+![](C:\Users\재원\Desktop\result.jpg)
 
 
 
